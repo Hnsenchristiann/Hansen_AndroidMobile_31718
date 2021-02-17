@@ -1,0 +1,20 @@
+Latihan, Tugas, dan Eksperimen :
+2. Lakukan pengujian terhadap app anda dengan skenario di bawah ini:
+
+ a. Kosongkan Angka 1 dan Angka 2, lalu klik salah satu button :
+   - Hasil yang terjadi adalah aplikasi mengalami crash di karenakan tidak ada nilai yang di masukkan ke dalamnya
+     sehingga program bingung harus menjalankan perintah apa sehingga menyebabkan crash. Hal yang bisa di lakukan
+     untuk masalah ini yaitu adanya pengecekan isi nilai di dalam angka 1 dan 2 sehingga program menganggap hasil yang tidak
+     diisi sama dengan 0 sehingga program tidak mengalami crash.
+
+ b. Kosongkan Angka 2, lalu klik button Bagi :
+   - Hasil yang terjadi adalah aplikasi mengalami crash di karenakan tidak ada nilai yang di masukkan ke dalam salah
+     satu field sehingga program bingung harus menjalankan perintah apa sehingga menyebabkan crash. Hal yang bisa di lakukan
+     untuk masalah ini yaitu adanya pengecekan isi nilai di dalam angka 1 dan 2 sehingga program menganggap hasil yang tidak
+     diisi sama dengan 0 sehingga program tidak mengalami crash.
+
+ c. Isi 0 (nol) pada Agka 2, lalu klik button Bagi :
+   - Hasil yang terjadi adalah tidak ada yang error tetapi pada hasil pembagian dengan bilangan 0 akan menghasilkan
+     infinity.
+
+perbaikan error telah di tambahkan ke MainActivity

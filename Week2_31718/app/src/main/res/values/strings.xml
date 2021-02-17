@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week2_31718</string>
+
+    <string name="Angka1">Angka1</string>
+    <string name="Angka2">Angka2</string>
+    <string name="Tambah">Tambah</string>
+    <string name="Kurang">Kurang</string>
+    <string name="btnBagi">Bagi</string>
+    <string name="btnKali">Kali</string>
+    <string name="hasil">Hasil</string>
+</resources>
