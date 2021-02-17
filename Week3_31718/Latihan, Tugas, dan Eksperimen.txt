@@ -1,0 +1,7 @@
+Week 3 :
+
+2. Setelah program berjalan dan melakukan pengujian yang terjadi pada program adalah ketika kita menekan tombol FAB tambah maka
+   akan menambahkan kata lanjutan baru secara berurut dengan teks di samping "telah ditambahkan", lalu jika menekan kata yang telah
+   ada maka akan muncul teks di samping "pernah di klik", selanjutnya ketika menekan kata yang baru di tambahkan maka akan muncul
+   teks "pernah di klik" di samping kata "telah di tambahkan". kata "pernah di klik" akan muncul terus ketika kita terus menekan
+   kata yang sama, dan jika program di close maka akan reset kembali seperti awal (teks dan kata baru hilang).
